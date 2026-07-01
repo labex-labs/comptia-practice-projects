@@ -1,1 +1,31 @@
-# comptia-practice-projects
+# CompTIA Practice Projects
+
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+
+<p align="center">
+  <a href="https://labex.io/learn/comptia">
+    <img width="128" src="https://file.labex.io/upload/u/1991/aLZEMOV0toCt.png" alt="CompTIA">
+  </a>
+</p>
+
+Learn CompTIA with a structured learning path designed for mastering vendor-neutral IT certifications. This roadmap, featuring a series of CompTIA courses, is ideal for beginners entering the IT field. It provides systematic preparation for industry-recognized certifications and helps develop practical skills for professional IT environments through hands-on labs and real-world scenarios.
+
+[Explore Projects on LabEx](https://labex.io/learn/comptia)
+
+## Projects
+
+Explore 4 beginner-friendly CompTIA projects that turn core language concepts into small, complete programs. Each project opens in LabEx with a ready-to-use environment, so you can focus on building instead of setup.
+
+|   Index | Project                                                                                                       | Difficulty   | Practice                                                                      |
+|---------|---------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------|
+|       1 | [CompTIA Linux+ Certification Training Labs](https://labex.io/courses/comptia-linux-plus-training-labs)       | Beginner     | [Start project](https://labex.io/courses/comptia-linux-plus-training-labs)    |
+|       2 | [CompTIA Network+ Certification Training Labs](https://labex.io/courses/comptia-network-plus-training-labs)   | Beginner     | [Start project](https://labex.io/courses/comptia-network-plus-training-labs)  |
+|       3 | [CompTIA Security+ Certification Training Labs](https://labex.io/courses/comptia-security-plus-training-labs) | Beginner     | [Start project](https://labex.io/courses/comptia-security-plus-training-labs) |
+|       4 | [CompTIA A+ Certification Training Labs](https://labex.io/courses/comptia-a-plus-training-labs)               | Beginner     | [Start project](https://labex.io/courses/comptia-a-plus-training-labs)        |
+
+[View More on LabEx](https://labex.io/learn/comptia)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
+
